@@ -72,4 +72,4 @@ We answer:
 ---
 
 ## 📈 Next Steps
-- Track bus speeds and violations **after congestion pricing begins** (pla
+- Track bus speeds and violations **after congestion pricing begins** 
