@@ -4,10 +4,15 @@
 This project investigates how **Automated Camera Enforcement (ACE)** and upcoming **Congestion Pricing** affect bus performance in New York City, with a focus on **CUNY campuses**.
 
 We answer:
-1. Which CUNY campuses are served by ACE-enforced bus routes?
-2. How much have bus speeds changed since ACE rollout?
-3. Where, when, and who is violating bus lanes?
-4. How might congestion pricing amplify these effects within the Central Business District (CBD)?
+🚍 Challenge 1: CUNY Student Reliance & ACE Impact
+Goal: Identify key bus routes for CUNY students and measure ACE's effect on their speed/reliability.
+
+🚗 Challenge 2: Exempt Vehicle Violations & Hotspots
+Goal: Find patterns in violations from exempt vehicles (government, diplomatic plates) and identify geographic hotspots.
+
+🗺️ Challenge 3: Manhattan's CBD & Congestion Pricing
+Goal: Analyze the current state of ACE in the CBD and model the potential impact of congestion pricing.
+
 
 ---
 
