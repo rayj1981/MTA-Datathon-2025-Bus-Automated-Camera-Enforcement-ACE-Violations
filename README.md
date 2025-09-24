@@ -43,6 +43,13 @@ We answer:
   - Example: The **M101** saw a **+13% speed increase**, the **M2** +12%, and the **M42** +4%.  
   - Improvements were strongest on corridors with consistent ACE enforcement.  
 
+## Comparative Analysis of Bus Speeds
+
+The following chart compares average bus speeds before and after the implementation of key initiatives like the Automated Camera Enforcement (ACE) program, highlighting trends from 2020-2023 versus 2023-2024.
+
+![Comparison of Bus Speeds 2020-2023 vs 2023-2024](https://github.com/rayj1981/MTA-Datathon-2025-Bus-Automated-Camera-Enforcement-ACE-Violations/blob/main/Pictures/comparison_bus_speeds_2020-2023_vs_2023-2024.png)
+
+
 - **Violations Cluster in Busy Midtown Corridors**  
   - Hotspots align with **major commercial avenues** (e.g., 42nd Street, 14th Street).  
   - Violations peak **midday (12–2 PM)** and **evening (5–7 PM)** — overlapping with student commuting hours.  
