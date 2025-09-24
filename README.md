@@ -54,14 +54,16 @@ The following chart compares average bus speeds before and after the implementat
   - Hotspots align with **major commercial avenues** (e.g., 42nd Street, 14th Street).  
   - Violations peak **midday (12–2 PM)** and **evening (5–7 PM)** — overlapping with student commuting hours.  
 
-- **CUNY Campuses Are Directly Affected**  
-  - Several campuses (e.g., Baruch, BMCC, Hunter) are along ACE-enforced bus lanes.  
-  - Students benefit from faster and more reliable buses, especially on cross-town routes.  
+## Temporal Analysis of Violation Statuses
+
+This chart breaks down the status of ACE violations (e.g., Paid, Open, Disputed) by the hour of the day they were issued. This temporal analysis reveals patterns in driver compliance and dispute behavior throughout the day.
+
+![Violations by Status Across Hours of the Day](https://github.com/rayj1981/MTA-Datathon-2025-Bus-Automated-Camera-Enforcement-ACE-Violations/blob/main/Pictures/violations_by_status_across_hours.png)
 
 - **Congestion Pricing Likely to Amplify ACE Benefits**  
   - By reducing private vehicle trips into the CBD, congestion pricing could further cut delays.  
   - Expected synergy: **fewer violators + lower traffic volumes = faster buses.**
-  -  
+  
 ## Geographic Analysis of Bus Speeds
 
 This map visualizes bus routes in New York City's Central Business District (CBD), colored by their average speed. The spatial representation helps identify corridors with persistent congestion and areas where interventions like ACE have had the most significant impact.
@@ -74,14 +76,3 @@ This map visualizes bus routes in New York City's Central Business District (CBD
 - **Equity:** Many CUNY students come from outer boroughs — ACE and congestion pricing make travel more reliable without additional cost.  
 - **Safety:** Clearer bus lanes mean fewer pedestrian conflicts and safer streets around campuses.  
 
----
-
-## 🌍 Policy Implications
-- **Scaling Up ACE:** Expanding ACE to more corridors could replicate speed improvements citywide.  
-- **Student Advocacy:** CUNY students stand to gain from both ACE and congestion pricing, making them key stakeholders in transit justice.  
-- **Data Transparency:** Continued open data reporting ensures accountability and helps measure impacts post-congestion pricing rollout.  
-
----
-
-## 📈 Next Steps
-- Track bus speeds and violations **after congestion pricing begins** 
