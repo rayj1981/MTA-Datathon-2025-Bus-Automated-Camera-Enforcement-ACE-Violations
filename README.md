@@ -60,8 +60,13 @@ The following chart compares average bus speeds before and after the implementat
 
 - **Congestion Pricing Likely to Amplify ACE Benefits**  
   - By reducing private vehicle trips into the CBD, congestion pricing could further cut delays.  
-  - Expected synergy: **fewer violators + lower traffic volumes = faster buses.**  
+  - Expected synergy: **fewer violators + lower traffic volumes = faster buses.**
+  -  
+## Geographic Analysis of Bus Speeds
 
+This map visualizes bus routes in New York City's Central Business District (CBD), colored by their average speed. The spatial representation helps identify corridors with persistent congestion and areas where interventions like ACE have had the most significant impact.
+
+![CBD Bus Routes Colored by Average Speed](https://github.com/rayj1981/MTA-Datathon-2025-Bus-Automated-Camera-Enforcement-ACE-Violations/blob/main/Pictures/CBD_routes_colored_by_average_speed.png)
 ---
 
 ## 🎓 Impact on CUNY Communities
