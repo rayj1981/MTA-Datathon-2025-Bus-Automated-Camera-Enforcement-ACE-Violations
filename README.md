@@ -60,6 +60,14 @@ This chart breaks down the status of ACE violations (e.g., Paid, Open, Disputed)
 
 ![Violations by Status Across Hours of the Day](https://github.com/rayj1981/MTA-Datathon-2025-Bus-Automated-Camera-Enforcement-ACE-Violations/blob/main/Pictures/violations_by_status_across_hours.png)
 
+## Peak Violation Heatmap Analysis
+
+This heatmap provides a detailed view of ACE violation frequency, analyzing patterns across both hours of the day and days of the week. It identifies specific time windows where bus lane incursions are most concentrated.
+
+![Heatmap of ACE Violations by Hour and Day of Week](https://github.com/rayj1981/MTA-Datathon-2025-Bus-Automated-Camera-Enforcement-ACE-Violations/blob/main/Pictures/HEATMAP%20PICTURE.PNG)
+
+
+
 - **Congestion Pricing Likely to Amplify ACE Benefits**  
   - By reducing private vehicle trips into the CBD, congestion pricing could further cut delays.  
   - Expected synergy: **fewer violators + lower traffic volumes = faster buses.**
