@@ -3,6 +3,9 @@
 ## 📌 Overview
 This project investigates how **Automated Camera Enforcement (ACE)** and upcoming **Congestion Pricing** affect bus performance in New York City, with a focus on **CUNY campuses**.
 
+## Video Submission
+Link To Video: https://youtu.be/ddOV1o4afSM
+
 🚍 Challenge 1: CUNY Student Reliance & ACE Impact
 Goal: Identify key bus routes for CUNY students and measure ACE's effect on their speed/reliability.
 
